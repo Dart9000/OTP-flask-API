@@ -3,7 +3,7 @@
 ## Installation
 ```
 #in app.py line 6 & 7 Add Your Email Credentials / prefer to use Secrets/.env variable
-#if using Gmail allow access to less secure app in account settings
+#if using Gmail allow access to less secure app in google-account settings
 pip install -r requirements.txt
 python app.py
 
